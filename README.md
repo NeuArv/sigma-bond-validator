@@ -1,6 +1,6 @@
 # Sigma-Bond Validator
 
-[![DOI](https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs-7340867%2Fv1-blue.svg)](https://doi.org/10.21203/rs.3.rs-7340867/v1)
+[![DOI](https://img.shields.io/static/v1?label=DOI&message=10.21203%2Frs.3.rs-7340867%2Fv1&color=blue)](https://doi.org/10.21203/rs.3.rs-7340867/v1)
 [![Tests](https://github.com/NeuArv/sigma-bond-validator/actions/workflows/python-app.yml/badge.svg)](https://github.com/NeuArv/sigma-bond-validator/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
