@@ -1,7 +1,6 @@
 # Sigma-Bond Validator
 
 [![Tests](https://github.com/NeuArv/sigma-bond-validator/actions/workflows/python-app.yml/badge.svg)](https://github.com/NeuArv/sigma-bond-validator/actions)
-[![DOI](https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs-7340867%2Fv1-blue.svg)](https://doi.org/10.21203/rs.3.rs-7340867/v1)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
@@ -9,7 +8,7 @@
 
 **Author:** Arvind Gyandatt Mishra  
 **Contact / LinkedIn:** https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/  
-**Preprint / DOI:** Mishra, A. G. (2024). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: `10.21203/rs.3.rs-7340867/v1`
+**Preprint / DOI:** Mishra, A. G. (2024). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: [https://doi.org/10.21203/rs.3.rs-7340867/v1](https://doi.org/10.21203/rs.3.rs-7340867/v1)
 
 A compact research implementation and reproducible validation harness for a topological sigma-bond counting rule:
 
