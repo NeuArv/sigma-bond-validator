@@ -1,0 +1,25 @@
+{
+  "created_files": [
+    ".github/workflows/python-app.yml",
+    ".gitignore",
+    ".pytest_cache/.gitignore",
+    ".pytest_cache/CACHEDIR.TAG",
+    ".pytest_cache/README.md",
+    ".pytest_cache/v/cache/nodeids",
+    ".pytest_cache/v/cache/stepwise",
+    "LICENSE",
+    "README.md",
+    "examples/README.md",
+    "main.py",
+    "main_original.py",
+    "requirements.txt",
+    "src/sigma/__pycache__/core.cpython-311.pyc",
+    "src/sigma/core.py",
+    "tests/__pycache__/test_core.cpython-311-pytest-8.2.2.pyc",
+    "tests/test_core.py"
+  ],
+  "pytest_returncode": 0,
+  "pytest_stdout": "\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m                                                                     [100%]\u001b[0m\n\u001b[32m\u001b[32m\u001b[1m4 passed\u001b[0m\u001b[32m in 0.21s\u001b[0m\u001b[0m\n",
+  "pytest_stderr": "/home/sandbox/.local/lib/python3.11/site-packages/ddtrace/vendor/psutil/_pslinux.py:527: RuntimeWarning: 'sin' and 'sout' swap memory stats couldn't be determined and were set to 0 ([Errno 2] No such file or directory: '/proc/vmstat')\n  warnings.warn(msg, RuntimeWarning)\n",
+  "repo_path": "/mnt/data/sigma-bond-validator"
+}
