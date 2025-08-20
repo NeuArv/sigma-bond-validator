@@ -27,7 +27,7 @@ Where:
 - `scripts/reproduce_paper.py` — reproduce calculations from `data/validation_set.csv`.  
 - `data/validation_set.csv` — validation scaffold (place your full 50-molecule table here).  
 - `requirements.txt` — minimal runtime dependencies.  
-- `LICENSE` — MIT (recommended).  
+- `LICENSE` — MIT.  
 - `CITATION.bib`, `CITATION.cff` — citation metadata.  
 - `.github/workflows/python-app.yml` — CI skeleton (runs tests + reproduction).
 
@@ -77,16 +77,16 @@ This reads `data/validation_set.csv` and writes `sigma_bond_reproduction_results
 
 ## License & citation
 
-- Repository license: **MIT** (see `LICENSE`). Update copyright/years if needed.  
-- Primary theoretical source (preprint / must be cited in publications using the result):  
+- Repository license: **MIT** (see `LICENSE`).
+- Primary theoretical source:  
   Mishra, A. G. (2024). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: `10.21203/rs.3.rs-7340867/v1`.
 
 Machine-readable citations are available in `CITATION.bib` and `CITATION.cff`.
 
 ---
 
-## Contact / Maintainer
-**Arvind Gyandatt Mishra** — https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/
+## Maintainer
+**Arvind Gyandatt Mishra**
 
 ---
 
