@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following preprint and this repository."
+authors:
+  - family-names: "Mishra"
+    given-names: "Arvind Gyandatt"
+title: "Sigma-Bond Validator"
+version: "0.1.0"
+doi: "10.21203/rs.3.rs-7340867/v1"
+url: "https://github.com/NeuArv/sigma-bond-validator"
